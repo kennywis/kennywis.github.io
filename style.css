@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body{
+  background-color: white;
+}
+
+
+
+:root{
+  
+--rf-brand: #0000FF;
+--rf-brand-rgb: 248, 54, 145;
+--rf-dark: #212237;
+--rf-body: #FF0000;
+--f-main: "raleway" , sanz-serif
+--transition: all .6s cubic-bezier(.165, .85, .44, 1); 
+--shadow: 0px, 15px, 30px, rgba(0,0,0,0. 1);
+}
+
+body{
+  font-family: var(--f-main);
+  color(--rf-body);
+  line-height: 1.5;
+}
+
+h1, .h1 h2, .h2 h3, .h3 h4, .h4 h5, .h5 h6, .h6{
+  font-weight: 600;
+  color: var(--rf-dark);
+  font-family: var(--f-main);
+}
+  
+.teks-brand{
+  color: var(--rf-brand);
+}
+.navbar {
+ padding-top: 30px;
+ padding-bottom: 30px;
+}
+#home{
+  background-image: url(OTI.JPG);
+  background-position:top;
+  background-size:cover;
+}
+.section-padding{
+  padding-top: 120px;
+  padding-bottom: 120px);
+}
+
+.section-titel{
+  max-width: 250px;
+  margin: 0 auto 60px auto;
+}
