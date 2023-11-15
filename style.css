@@ -3,13 +3,12 @@
 body{
   background-color: black;
 }
-  
 
 
 
 :root{
   
---rf-brand: #0000FF;
+--rf-brand: #00FFFF;
 --rf-brand-rgb: 248, 54, 145;
 --rf-dark: #212237;
 --rf-body: #FFFFFF;
@@ -38,7 +37,7 @@ h1, .h1 h2, .h2 h3, .h3 h4, .h4 h5, .h5 h6, .h6{
  padding-bottom: 30px;
 }
 #home{
-  background-image: url(Logo.png);
+  background-image: url(N.png);
   background-position:top;
   background-size:cover;
 }
