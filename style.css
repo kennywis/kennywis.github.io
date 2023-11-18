@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 
 body{
-  background-color: black;
+  background-color:black;
 }
 
 
@@ -24,30 +24,37 @@ body{
 }
 
 h1, .h1 h2, .h2 h3, .h3 h4, .h4 h5, .h5 h6, .h6{
-  font-weight: 600;
-  color: var(--rf-brand);
+  font-weight: 700;
+  siz: 50px;
+  color: var(--rf-body);
   font-family: var(--f-main);
 }
   
 .teks-brand{
-  color: var(--rf-brand);
+  color: var(--rf-body);
 }
 .navbar {
   background-color: black;
- padding-top: 30px;
- padding-bottom: 30px;
+ padding-top: 25px;
+ padding-bottom: 10px;
 }
 #home{
-  background-image: url(N.png);
-  background-position:top;
+  background-image: url();
+  background-position:center;
   background-size:cover;
 }
 .section-padding{
-  padding-top: 120px;
-  padding-bottom: 120px);
+  padding-top: 250px;
+  padding-bottom: 250px);
 }
 
 .section-titel{
   max-width: 250px;
   margin: 0 auto 60px auto;
+}
+#progressbar{
+  background size: 30px;
+}
+.img{
+
 }
