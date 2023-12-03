@@ -38,11 +38,9 @@ h1, .h1 h2, .h2 h3, .h3 h4, .h4 h5, .h5 h6, .h6{
  padding-top: 25px;
  padding-bottom: 10px;
 }
-#home{
-  background-image: url();
-  background-position:center;
-  background-size:cover;
+img{
 }
+
 .section-padding{
   padding-top: 250px;
   padding-bottom: 250px);
@@ -54,7 +52,4 @@ h1, .h1 h2, .h2 h3, .h3 h4, .h4 h5, .h5 h6, .h6{
 }
 #progressbar{
   background size: 30px;
-}
-.img{
-
 }
